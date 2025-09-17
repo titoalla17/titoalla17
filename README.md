@@ -40,20 +40,13 @@
 ---
 
 ### ✨ Featured Projects
-- 🎮 [Kart Racing Game (Unity)](https://github.com/titoakhairi/kart-racing-game)  
-  *Top-down retro racing game built with OOP principles.*  
-
-- 📊 [Ground Control System (Java)](https://github.com/titoakhairi/gcs-system)  
-  *Java app to display and process CSV flight data.*  
-
-- 🌐 [Taka Edu Platform](https://github.com/titoakhairi/taka-edu)  
-  *Tutoring platform built with Laravel & MySQL.*  
+- Still Progressing
 
 ---
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/titoallakhairi" target="_blank">
+  <a href="[https://linkedin.com/in/titoallakhairi](https://www.linkedin.com/in/tito-alla-khairi/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:titoallak@gmail.com">

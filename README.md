@@ -1,7 +1,3 @@
-<!-- Banner atau GIF bisa ditaruh di sini -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Tito Alla Khairi</h1>
 <h3 align="center">Software Engineering Student | Aspiring Game Developer</h3>

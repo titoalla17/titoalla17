@@ -1,14 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Tito Alla Khairi</h1>
-<h3 align="center">Software Engineering Student | Aspiring Game Developer</h3>
+<h3 align="center">Software Engineering Student
 
 ---
 
 ### 🔥 About Me
 - 🎓 Currently studying **Software Engineering at Universitas Gadjah Mada**
-- 🎮 Interested in **Game Development** (Unity)
-- 💻 Passionate about **Web Development**, **UI/UX**, **Game Development**, & **Machine Learning**
-- 🚀 Exploring **Blender** for 3D Asset Creation
+- 💻 Passionate about **Web Development**, **UI/UX**, **Game Development**, & **IoT**
 - 📫 Reach me at **titoallak@gmail.com**
 
 ---
